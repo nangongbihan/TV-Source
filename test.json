@@ -1,0 +1,10 @@
+{
+  "lives": [
+    {
+      "name": "本地测试源",
+      "type": 0,
+      "api": "https://yourdomain.com/live/live.m3u",
+      "epg": "https://yourdomain.com/epg/epg.xml"
+    }
+  ]
+}
